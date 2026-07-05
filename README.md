@@ -9,7 +9,7 @@ This repository documents my 365-day journey to become an AI Engineer under the 
 | Day | Topic | Status |
 |-----|-------|--------|
 | 1 | Python Basics | ✅ |
-| 2 | User Input | ⏳ |
+| 2 | User Input | ✅ |
 | 3 | Strings | ⏳ |
 
 ## Goals
